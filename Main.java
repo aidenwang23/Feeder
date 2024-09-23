@@ -5,7 +5,7 @@ public class Main {
         System.out.println(i);
 
         Feeder j = new Feeder(1000);
-        j.simulateManyDays(5,5);
+        j.simulateManyDays(5, 5);
         System.out.println(j);
     }
 }
